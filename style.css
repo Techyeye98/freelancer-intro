@@ -1,0 +1,48 @@
+/* Reset and base */
+body {
+	background-color: #f2f2f2;
+	font-family: 'Segoe UI',sans-serif;
+	color: #333;
+	padding: 20px;
+	max-width: 800px;
+	margin: auto;
+	border-radius: 10px;
+	background: white;
+	box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Headings */
+h1 {
+	color: #1a73e8;
+}
+
+/* Lists */
+ul {
+	list-style: square;
+}
+
+/* Image */
+img {
+	border-radius: 50%;
+    width: 200px;
+	height: 200px;
+	object-fit: cover;
+}
+
+/* Button */
+button {
+	background-color: #1a73e8;
+	color: white;
+	padding: 10px 20px;
+	border: none;
+	border-radius: 8px;
+	font-size: 16px;
+	cursor: pointer;
+	margin-top: 15px;
+}
+
+button:hover {
+	background-color: #0f5aca;
+}
+	
+	
